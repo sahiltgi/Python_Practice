@@ -4,16 +4,10 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fca17610-af0f-4fb0-97e8-e31e5eda4ed8" name="Default Changelist" comment="Maimum Absolute Difference 1st try.">
-      <change afterPath="$PROJECT_DIR$/HackerRank/Introduction/ArithmeticOperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Introduction/Division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Introduction/Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Introduction/WriteaFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Introduction/helloworld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Introduction/if-else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterviewBit/Maximum Absolute Difference(optimize).py" afterDir="false" />
+    <list default="true" id="fca17610-af0f-4fb0-97e8-e31e5eda4ed8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HackerRank/Basic Data Types/Find the runner up.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Introduction/printFunction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterviewBit/Maximum Absolute Difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewBit/Maximum Absolute Difference.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583816346220</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Maimum Absolute Difference 1st try.">
+      <created>1584341859775</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584341859775</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
