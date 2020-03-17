@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fca17610-af0f-4fb0-97e8-e31e5eda4ed8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/Basic Data Types/Find the runner up.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Introduction/printFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Basic Data Types/ListComprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Basic Data Types/ListComprehensionOptimised.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +46,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Maximum Absolute Difference">
+  <component name="RunManager" selected="Python.ListComprehension">
+    <configuration name="ListComprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datastructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank/Basic Data Types" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Basic Data Types/ListComprehension.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Maximum Absolute Difference" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,6 +154,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ListComprehension" />
         <item itemvalue="Python.Maximum Absolute Difference" />
         <item itemvalue="Python.Minimum Absolute Difference" />
         <item itemvalue="Python.bubblesort" />
