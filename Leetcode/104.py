@@ -16,4 +16,4 @@ def maxDepth(self, root) -> int:
 
 if __name__ == "__main__":
     root = list(map(int, input().split()))
-    maxDepth(root)
+    print(maxDepth(root))
