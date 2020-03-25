@@ -4,9 +4,8 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fca17610-af0f-4fb0-97e8-e31e5eda4ed8" name="Default Changelist" comment="length of last word">
-      <change afterPath="$PROJECT_DIR$/Leetcode/94.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Sahil_Tyagi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Sahil_Tyagi.xml" afterDir="false" />
+    <list default="true" id="fca17610-af0f-4fb0-97e8-e31e5eda4ed8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Leetcode/104.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -217,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585156227349</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="binary tree inorder traversal">
+      <created>1585156438861</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585156438861</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,7 +245,8 @@
     <MESSAGE value="Leetcode Problems series" />
     <MESSAGE value="maximum subarray" />
     <MESSAGE value="length of last word" />
-    <option name="LAST_COMMIT_MESSAGE" value="length of last word" />
+    <MESSAGE value="binary tree inorder traversal" />
+    <option name="LAST_COMMIT_MESSAGE" value="binary tree inorder traversal" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
