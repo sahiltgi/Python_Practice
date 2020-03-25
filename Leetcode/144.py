@@ -12,4 +12,4 @@ def preorderTraversal(self, root):
 
 if __name__ == "__main__":
     root = list(map(int, input().split()))
-    preorderTraversal(root)
+    print(preorderTraversal(root))
