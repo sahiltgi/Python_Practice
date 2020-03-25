@@ -12,4 +12,4 @@ def inorderTraversal(self, root):
 
 if __name__ == "__main__":
     root = list(map(int, input().split()))
-    inorderTraversal(root)
+    print(inorderTraversal(root))
