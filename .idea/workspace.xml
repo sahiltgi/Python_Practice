@@ -4,9 +4,8 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fca17610-af0f-4fb0-97e8-e31e5eda4ed8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Sahil_Tyagi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/1.py" afterDir="false" />
+    <list default="true" id="fca17610-af0f-4fb0-97e8-e31e5eda4ed8" name="Default Changelist" comment="Leetcode Problems series">
+      <change afterPath="$PROJECT_DIR$/Leetcode/53.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -196,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584416614667</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Leetcode Problems series">
+      <created>1585155637919</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585155637919</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,7 +221,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Maimum Absolute Difference 1st try." />
     <MESSAGE value="Solving hacker rank basic data type problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solving hacker rank basic data type problems" />
+    <MESSAGE value="Leetcode Problems series" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode Problems series" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
