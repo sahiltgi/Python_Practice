@@ -11,4 +11,4 @@ def maxSubArray(nums):
 
 if __name__ == "__main__":
     nums = list(map(int, input().split()))
-    (maxSubArray(nums))
+    print(maxSubArray(nums))
