@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fca17610-af0f-4fb0-97e8-e31e5eda4ed8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LinkedList/SLLInsertion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/SLLinsertionprev.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SLLInsertion">
+  <component name="RunManager" selected="Python.SLLinsertionprev">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,27 +112,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Minimum Absolute Difference" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="datastructures" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InterviewBit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InterviewBit/Minimum Absolute Difference.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="SLLInsertion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,13 +133,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SLLinsertionprev" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datastructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/SLLinsertionprev.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SLLinsertionprev" />
         <item itemvalue="Python.SLLInsertion" />
         <item itemvalue="Python.1" />
         <item itemvalue="Python.ListComprehension" />
         <item itemvalue="Python.Maximum Absolute Difference" />
-        <item itemvalue="Python.Minimum Absolute Difference" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585157768020</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Singly Linked List Insertion at the beginning.">
+      <created>1585577306339</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1585577306340</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,7 +294,8 @@
     <MESSAGE value="function calling fix" />
     <MESSAGE value="preorder traversal" />
     <MESSAGE value="preorder traversal fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="preorder traversal fix" />
+    <MESSAGE value="Singly Linked List Insertion at the beginning." />
+    <option name="LAST_COMMIT_MESSAGE" value="Singly Linked List Insertion at the beginning." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
