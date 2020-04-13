@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fca17610-af0f-4fb0-97e8-e31e5eda4ed8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LinkedList/SLLinsertionprev.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectEuler/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/TheatreSquare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/Watermelon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/WayTooLongWords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewBit/Maximum Absolute Difference(optimize).py" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewBit/Maximum Absolute Difference(optimize).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Customer Management" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -48,8 +52,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SLLinsertionprev">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.WayTooLongWords">
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjectEuler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectEuler/2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ListComprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank/Basic Data Types" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjectEuler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Basic Data Types/ListComprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectEuler/5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Maximum Absolute Difference" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TheatreSquare" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InterviewBit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeforces" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InterviewBit/Maximum Absolute Difference.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeforces/TheatreSquare.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SLLInsertion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Watermelon" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeforces" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/SLLInsertion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeforces/Watermelon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SLLinsertionprev" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="WayTooLongWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeforces" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/SLLinsertionprev.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeforces/WayTooLongWords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.SLLinsertionprev" />
-        <item itemvalue="Python.SLLInsertion" />
-        <item itemvalue="Python.1" />
-        <item itemvalue="Python.ListComprehension" />
-        <item itemvalue="Python.Maximum Absolute Difference" />
+        <item itemvalue="Python.WayTooLongWords" />
+        <item itemvalue="Python.TheatreSquare" />
+        <item itemvalue="Python.Watermelon" />
+        <item itemvalue="Python.5" />
+        <item itemvalue="Python.2" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585577306340</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added Project Euler folder for practice">
+      <created>1586240734251</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1586240734252</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,7 +306,8 @@
     <MESSAGE value="preorder traversal" />
     <MESSAGE value="preorder traversal fix" />
     <MESSAGE value="Singly Linked List Insertion at the beginning." />
-    <option name="LAST_COMMIT_MESSAGE" value="Singly Linked List Insertion at the beginning." />
+    <MESSAGE value="Added Project Euler folder for practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Project Euler folder for practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
