@@ -1,8 +1,8 @@
 def valUpdate(row, col):
     pass
-    for i in range(2):
-        for j in range(10):
-            dc()
+    # for i in range(2):
+    #     for j in range(10):
+    #         dc()
 
 
 if __name__ == "__main__":

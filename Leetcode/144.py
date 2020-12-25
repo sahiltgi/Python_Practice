@@ -3,8 +3,7 @@
 def preorderTraversal(self, root):
     if not root:
         return []
-    result = []
-    result.append(root.val)
+    result = [root.val]
     result.extend(self.preorderTraversal(root.left))
     result.extend(self.preorderTraversal(root.right))
     return result
