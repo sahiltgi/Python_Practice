@@ -3,5 +3,5 @@ def printhello(inp):
 
 
 if __name__ == "__main__":
-    s = input('Enter value')
+    s = input('Enter value :- ')
     print(printhello(s))
